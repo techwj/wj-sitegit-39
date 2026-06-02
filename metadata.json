@@ -1,0 +1,59 @@
+{
+  "siteId": "annual-leave-long-trip-plan",
+  "generatedAt": "2026-06-02T15:38:18.907067",
+  "categories": [
+    "beginner-annual-leave-long-trip-plan",
+    "advanced-annual-leave-long-trip-plan",
+    "tips-annual-leave-long-trip-plan",
+    "history-annual-leave-long-trip-plan",
+    "trending-annual-leave-long-trip-plan",
+    "tutorials-annual-leave-long-trip-plan"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-annual-leave-long-trip-plan",
+      "category_name": "Beginner Annual Leave Long Trip Plan"
+    },
+    {
+      "category_slug": "advanced-annual-leave-long-trip-plan",
+      "category_name": "Advanced Annual Leave Long Trip Plan"
+    },
+    {
+      "category_slug": "tips-annual-leave-long-trip-plan",
+      "category_name": "Annual Leave Long Trip Plan Tips"
+    },
+    {
+      "category_slug": "history-annual-leave-long-trip-plan",
+      "category_name": "Annual Leave Long Trip Plan History"
+    },
+    {
+      "category_slug": "trending-annual-leave-long-trip-plan",
+      "category_name": "Trending Annual Leave Long Trip Plan"
+    },
+    {
+      "category_slug": "tutorials-annual-leave-long-trip-plan",
+      "category_name": "Annual Leave Long Trip Plan Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "annual-leave-long-trip-plan",
+    "color_scheme": {
+      "name": "Purple Dream",
+      "primary": "#6b21a8",
+      "secondary": "#a855f7",
+      "accent": "#d8b4fe",
+      "background": "#faf5ff",
+      "text": "#581c87",
+      "light": "#f3e8ff"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "topbar",
+    "site_title": "Annual Leave Long Trip Plan Central",
+    "articles_per_row": 1
+  }
+}
